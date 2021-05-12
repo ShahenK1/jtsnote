@@ -1,0 +1,19 @@
+
+]
+-resources/views/livewire/notes/form.blade.php,2/7/2790c3329996f4f7f9d7f88e580ca0adae9b3ee1
+P
+ app/Http/Livewire/Notes/Form.php,b/9/b99688eb3db1942e5e5da34279f41e3fca56f3c7
+>
+routes/web.php,6/b/6b9a783d9b43fee50fd28f56dbd1856d2608f305
+P
+ app/Http/Livewire/Notes/Show.php,4/2/426e094d8656d2abfcdbfeaf4a22fe25895e07af
+]
+-resources/views/livewire/notes/show.blade.php,0/3/0329c18da057a44f667482a70265854a675c8e49
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+4
+.env,3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+Y
+)resources/views/navigation-menu.blade.php,0/c/0cdc545deda3932fd2f6a0e0e277487872f39ea6
+O
+resources/views/notes.blade.php,d/8/d85ee1c6980101d325604ed01d73e9850a393d14
