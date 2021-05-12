@@ -10,7 +10,7 @@ class Form extends Component
     public $description;
 
     protected $rules = [
-        'description' => 'required|min:6'
+        'description' => 'required|min:4'
     ];
 
     public function render()
